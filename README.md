@@ -6,6 +6,8 @@ A clean, responsive password strength checker built with HTML, JavaScript, and T
 
 
 ## Screenshot
+![image](https://github.com/user-attachments/assets/c22670db-aa19-48f5-924a-36e437705852)
+
 
 
 ## Features
